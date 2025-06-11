@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saumya Srivastava</h1>
-<h3 align="center">MERN Stack Developer | DSA Enthusiast | MCA Student @ IET Lucknow</h3>
+<h3 align="center">MERN Stack Developer | Student @ IET Lucknow</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Saumya-Sri21&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -10,19 +10,16 @@
 ### 🧑‍💻 About Me
 
 - 👨‍💻 Projects are available at [github.com/Saumya-Sri21?tab=repositories](https://github.com/Saumya-Sri21?tab=repositories)
-- 🌱 Currently learning **Cloud & Backend Tools**
-- 💬 Ask me about **DSA, MERN Stack, Open Source**
-- 🎨 Fun fact: I love creating **Mandala Art** and experimenting with **cooking**
-
+- 💬 Ask me about **DSA, MERN Stack**
 ---
 
 ### 📫 Connect with me
 
-<p>
+<span>
   <a href="https://www.linkedin.com/in/saumya-srivastavaa" target="_blank">
     <img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
-</p>
+</span>
 
 <br/><br/>
 

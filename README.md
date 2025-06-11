@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saumya Srivastava</h1>
 <h3 align="center">MERN Stack Developer | Student @ IET Lucknow</h3>
 
-<p align="center">
+<p>
   <img src="https://komarev.com/ghpvc/?username=Saumya-Sri21&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
@@ -9,8 +9,8 @@
 
 ### 🧑‍💻 About Me
 
-- 👨‍💻 [My Projects](https://github.com/Saumya-Sri21?tab=repositories)
-- 💬 Ask me about **DSA, MERN Stack**
+- 👨‍💻 Projects at [My-Projects](https://github.com/Saumya-Sri21?tab=repositories)
+- 💬 **DSA, MERN Stack**
 
 ---
 
@@ -18,7 +18,7 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/saumya-srivastavaa" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
@@ -37,6 +37,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/appwrite.svg" alt="Appwrite" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="Vercel" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>

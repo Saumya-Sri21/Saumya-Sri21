@@ -9,19 +9,18 @@
 
 ### 🧑‍💻 About Me
 
-- 👨‍💻 Projects are available at [github.com/Saumya-Sri21?tab=repositories](https://github.com/Saumya-Sri21?tab=repositories)
+- 👨‍💻 [My Projects](https://github.com/Saumya-Sri21?tab=repositories)
 - 💬 Ask me about **DSA, MERN Stack**
+
 ---
 
 ### 📫 Connect with me
 
-<span>
+<p align="left">
   <a href="https://www.linkedin.com/in/saumya-srivastavaa" target="_blank">
-    <img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</span>
-
-<br/><br/>
+</p>
 
 ---
 
@@ -42,12 +41,4 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-</p>
-
----
-
-### 📈 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Saumya-Sri21&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>

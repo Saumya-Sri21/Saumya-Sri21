@@ -1,30 +1,35 @@
-<h1 align="center">Hi 👋, I'm Saumya </h1>
-<h3 align="center">MERN Stack Developer | Student @ IET Lucknow</h3>
+<h1 align="center">Hi 👋, I'm Saumya</h1>
+<h3 align="center">Full-Stack Developer | AI/ML Enthusiast | Master's Student @ IET Lucknow</h3>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Saumya-Sri21&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Saumya-Sri21&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
-### 🧑‍💻 About Me
-
-- 👨‍💻 Projects at [My-Projects](https://github.com/Saumya-Sri21?tab=repositories)
-- 💬 **DSA, MERN Stack**
+### 🧑‍💻 About Me  
+- 💻 Full-Stack Developer Intern  
+- 🎓 Pursuing MCA @ IET Lucknow  
+- 🔍 Passionate about **DSA, MERN Stack, and Open Source**  
+- 🌱 Currently exploring **system design & cloud deployment**  
 
 ---
 
-### 📫 Connect with me
+### 📫 Connect with Me  
 
 <p align="left">
   <a href="https://www.linkedin.com/in/saumya-srivastavaa" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
   </a>
+  &nbsp;&nbsp;
+  <a href="mailto:saumyasrivastava498@gmail.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="30" height="30"/>
+  </a>
 </p>
 
 ---
 
-### 🛠️ Languages and Tools
+### 🛠️ Languages & Tools  
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
